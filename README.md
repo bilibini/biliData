@@ -186,7 +186,7 @@ python main.py
 
 ## 📄 License
 
-本项目采用 [MIT License](LICENSE)，你可以自由使用、修改和分发。
+本项目采用 [Apache-2.0 license](LICENSE)，你可以自由使用、修改和分发。
 
 ---
 
