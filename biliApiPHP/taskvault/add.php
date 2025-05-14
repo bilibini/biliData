@@ -1,0 +1,21 @@
+<?php
+include $_SERVER['DOCUMENT_ROOT'].'/mydb/conn.php';//导入数据库操作模块
+header("Access-Control-Allow-Origin: *");
+header('Content-Type:application/json; charset=utf-8');
+
+$type=$_REQUEST['type'];
+$id=$_REQUEST['id'];
+
+if(!$type){
+    die("null");
+}
+if(!$id){
+    die("null");
+}
+
+
+
+print_r($type);
+print_r($num);
+
+?>

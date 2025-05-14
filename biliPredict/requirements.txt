@@ -1,0 +1,2 @@
+PyMySQL==1.0.2
+scikit_learn==1.0.2
